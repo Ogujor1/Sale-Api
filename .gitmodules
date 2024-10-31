@@ -1,0 +1,3 @@
+[submodule "altus-sales-apis"]
+	path = altus-sales-apis
+	url = https://github.com/optimalinfographics/altus-sales-apis
